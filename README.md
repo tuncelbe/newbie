@@ -1,1 +1,2 @@
 # newbie
+deneme ses 
